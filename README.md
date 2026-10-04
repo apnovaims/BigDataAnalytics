@@ -32,6 +32,10 @@ Course project for Big Data Analytics, MSc in Data Science and Advanced Analytic
 
 PySpark · Spark SQL · MLlib · GraphFrames · Structured Streaming
 
-## Author
+## Authors
 
 Artem Polikarpov · [LinkedIn](https://www.linkedin.com/in/artem-polikarpov-068a4313) · [All projects](https://github.com/apnovaims)
+Khuzaima Bashir, 
+Muhammad Ammar, 
+Sapana Dhami, 
+Simon Sazonov
